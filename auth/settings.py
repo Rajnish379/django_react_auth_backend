@@ -55,7 +55,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5173','http://18.221.13.69:8000'
+    'http://localhost:5173','http://django-react-app-frontend.s3-website.us-east-2.amazonaws.com'
 ]
 
 AUTH_USER_MODEL = 'users.CustomUser'
